@@ -11,4 +11,4 @@ y = np.linspace(-10, 10, 100)
 y = a * np.log(x) - b * x**3
 plt.plot(x, y, linestyle = '-', color='green')
 
-plt.show(zxcb)
+plt.show(zxxcvxccb)
